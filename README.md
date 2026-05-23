@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there 👋 
+
+# I'm Sebastian
 
 <!--
 **sebastianjohn7/sebastianjohn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
